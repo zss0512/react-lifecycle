@@ -3,7 +3,7 @@ A react lifecycle for react and react-native
 
 ## Installation
 ```sh
-npm install @remobile/react-lifecycle --save
+npm install @zss0512/react-lifecycle --save
 ```
 ### Usage
 ```js
